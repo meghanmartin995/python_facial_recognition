@@ -1,0 +1,14 @@
+.container  {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.video video {
+  height: 100%;
+  width: 400px;
+  margin: 0 auto;
+}
+
